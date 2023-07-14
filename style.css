@@ -1,0 +1,31 @@
+
+.container{
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(6, 6, 197);
+    /* left: 50px;
+    bottom: 50px; */
+}
+
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(197, 9, 6);
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(38, 197, 6);
+    border-radius: 100px;
+}
